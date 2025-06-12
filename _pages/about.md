@@ -29,8 +29,9 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 - *2025.06*: &nbsp;🎉🎉  My paper [**ZeroSearch**](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
 - *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
-- *2025.05*: &nbsp;🎉🎉  Two papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
+- *2025.05*: &nbsp;🎉🎉  Three papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
 - *2025.04*: &nbsp;🎉🎉  Honored to receive the **Academic Star Award** (Top-5 students in School of Intelligence Science and Technology)!
+- *2024.09*: &nbsp;🎉🎉  One papers on efficient LLM tuning were accepted by [NeurIPS 2024](https://neurips.cc/Conferences/2024)!
 - *2024.09*: &nbsp;🎉🎉  Three papers on RAG and Agent were accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2023.10*: &nbsp;🎉🎉  One paper on dense retrieval was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)!
 - *2023.10*: &nbsp;🎉🎉  One paper on multi-hop QA was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
@@ -394,13 +395,13 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/dg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TIFS 2023</div><img src='../images/dg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robust Domain Misinformation Detection via Multi-modal Feature Alignment](https://arxiv.org/pdf/2311.14315) 
 
 H Liu, W Wang, **Hao Sun**, A Rocha, H Li
 
-_IEEE Transactions on Information Forensics and Security _ (**TIFS**), 2023
+_IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2023
 
  <a href="https://arxiv.org/pdf/2311.14315"><strong>Paper</strong></a> 
 
