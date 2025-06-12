@@ -61,7 +61,20 @@ _Under Review_, 2025
  <a href="https://huggingface.co/collections/sunhaonlp/zerosearch-policy-google-v2-6827f4ee6b6265069d443d4e"><strong>Model</strong></a> 
  🏆 <span style="color: red;"><strong>1000+ stars</strong></span>
 
-**We propose a novel reinforcement learning framework that incentivizes the capability of LLMs to use a real search engine with simulated searches during training.**
+<a href="https://mp.weixin.qq.com/s/fq3F4OnOaG9PaF4_NKuRyg"><strong>机器之心</strong></a>
+ \|
+ <a href="https://mp.weixin.qq.com/s/8l-larvoLPg1aTZXA5EAXg"><strong>量子位</strong></a>
+ \|
+ <a href="https://www.bilibili.com/video/BV166j9zkEnK/?spm_id_from=333.1387.upload.video_card.click&vd_source=8929f8de0a49705a032c1321cbed3911h"><strong>通义大模型</strong></a>
+\|
+ <a href="https://x.com/AlibabaGroup/status/1924729349221318957"><strong>Twitter</strong></a>
+\|
+ <a href="https://huggingface.co/papers/2505.04588"><strong>Huggingface</strong></a>
+\|
+ <a href="https://venturebeat.com/ai/alibabas-zerosearch-lets-ai-learn-to-google-itself-slashing-training-costs-by-88-percent/"><strong>VentureBeat</strong></a>
+
+
+**A novel reinforcement learning framework that incentivizes the search capability of LLMs with simulated searches during training.**
 
 </div>
 </div>
@@ -72,7 +85,7 @@ _Under Review_, 2025
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">ACL</div>
+<div class="badge">ACL 2025</div>
 <img src='../images/unveil.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -93,7 +106,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">ACL</div>
+<div class="badge">ACL 2025</div>
 <img src='../images/ets.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -115,7 +128,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">EMNLP</div>
+<div class="badge">EMNLP 2024</div>
 <img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -138,7 +151,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">EMNLP</div>
+<div class="badge">EMNLP 2024</div>
 <img src='../images/ricp.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -159,7 +172,9 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP</div><img src='../images/adaswitch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div>
+<div class="badge">EMNLP 2024</div>
+<img src='../images/adaswitch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning](https://arxiv.org/pdf/2410.13181) 
 
