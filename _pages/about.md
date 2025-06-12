@@ -18,39 +18,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a Ph.D. candidate in [School of Intelligence Science and Technology ](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-K..com/). I’ve also spent time at [Baidu](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [Alibaba](https://www.alibaba.com/) and [Huawei](https://www.huawei.com/).
+I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
 
-My current research interests include **Information Retrieval** and **Large Language Models**. If you are also interested, please feel free to drop me an email.
+My research interests include **Agent**, **RAG** and **LLM**. If you are also interested, please feel free to drop me an email.
+
+<p><span style="color: red;"><strong>I am expected to complete my Ph.D. in June 2026 and will be actively seeking opportunities in both industry and academia. If you are interested, please feel free to reach out.</strong></span></p>
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
-- *2024.09*: &nbsp;🎉🎉  My paper entitled “Retrieved In-Context Principles from Previous Mistakes” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
-- *2024.09*: &nbsp;🎉🎉  My paper entitled “AdaSwitch: Adaptive Switching between Small and Large Agents for Effective Cloud-Local Collaborative Learning” was accepted by [EMNLP 2024](https://2024.emnlp.org/)!
-- *2024.04*: &nbsp;🎉🎉  Nominated for the Academic Star Award!
-- *2023.12*: &nbsp;🎉🎉  My paper entitled “Towards Verifiable Text Generation with Evolving Memory and Self-Reflection” is available on [Arxiv](http://arxiv.org/abs/2312.09075)!
-- *2023.10*: &nbsp;🎉🎉  My paper entitled “LEAD: Liberal Feature-based Distillation for Dense Retrieval” was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)! 
-- *2023.10*: &nbsp;🎉🎉  My paper entitled “Allies: Prompting Large Language Model with Beam Search” was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
-- *2023.08*: &nbsp;🎉🎉  Awarded as Stars of Tomorrow during an internship at Microsoft!
 
-# 📒 Preprint
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+- *2025.06*: &nbsp;🎉🎉  My paper [**ZeroSearch**](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agents, has surpassed **1,000 stars** on GitHub!
+- *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
+- *2025.05*: &nbsp;🎉🎉  Two papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
+- *2025.04*: &nbsp;🎉🎉  Honored to receive the **Academic Star Award** (Top-5 students in School of Intelligence Science and Technology)!
+- *2024.09*: &nbsp;🎉🎉  Three papers on RAG and Agent were accepted by [EMNLP 2024](https://2024.emnlp.org/)!
+- *2023.10*: &nbsp;🎉🎉  One paper on multi-hop QA was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
+- *2023.08*: &nbsp;🎉🎉  Honored to receive **Stars of Tomorrow award** during an internship at Microsoft!
+- *2023.05*: &nbsp;🎉🎉  One paper on multi-turn conversation was accepted by [ACL 2023](https://2023.aclweb.org/)!
+
+
+# 🌟 Highlight
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">Under Review</div>
+<img src='../images/zerosearch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
-[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
+[ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2312.09075.pdf) 
+**Hao Sun**, Z. Qiao, J. Guo, X. Fan, Y. Hou, Y. Jiang, P. Xie, Y. Zhang, F. Huang, J. Zhou
 
-**Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
+_Under Review_, 2025
 
-_Arxiv_, 2024
+ <a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a> |  <a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a> |  <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a> |  <a href="https://huggingface.co/collections/sunhaonlp/zerosearch-policy-google-v2-6827f4ee6b6265069d443d4e"><strong>Model</strong></a> 🏆 <p><span style="color: red;"><strong>1000+ stars</strong></span></p>
 
- <a href="https://arxiv.org"><strong>Paper</strong></a>
-
-**Select the most important negative samples for multi-source dense retrieval**
+**We propose a novel reinforcement learning framework that incentivizes the capability of LLMs to use a real search engine with simulated searches during training.**
 
 </div>
 </div>
+
 
 
 # 📝 Publications
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">ACL</div>
+<img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
+**Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
+
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+ <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+
+**Improving citation generation with a two-tier verifier and active retrieval mechanism.**
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">ACL</div>
+<img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
+**Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
+
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+
+**Improving citation generation with a two-tier verifier and active retrieval mechanism.**
+
+</div>
+</div>
+
+
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
@@ -342,6 +392,23 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 </div>
 </div>
 
+
+# 📒 Preprint
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
+
+**Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
+
+_Arxiv_, 2024
+
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
+
+**Select the most important negative samples for multi-source dense retrieval**
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
