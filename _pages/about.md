@@ -47,6 +47,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 </div>
 <div class='paper-box-text' markdown="1">
 [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2312.09075.pdf) 
+
 **Hao Sun**, Z. Qiao, J. Guo, X. Fan, Y. Hou, Y. Jiang, P. Xie, Y. Zhang, F. Huang, J. Zhou
 
 _Under Review_, 2025
@@ -76,14 +77,15 @@ _Under Review_, 2025
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval](https://arxiv.org/pdf/2312.09075.pdf)
+[Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval](https://arxiv.org)
+
 **Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
- <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
 
-**We propose a novel visual-textual embedding framework that effectively integrates textual and visual features for robust document representation.**
+**We propose a novel visual-textual embedding framework that effectively integrates textual and visual features.**
 
 </div>
 </div>
@@ -96,10 +98,13 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Enhancing Retrieval-Augmented Generation via Evidence Tree Search](https://arxiv.org/pdf/2312.09075.pdf) 
+[Enhancing Retrieval-Augmented Generation via Evidence Tree Search](https://arxiv.org) 
+
 **Hao Sun**, H. Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+ <a href="https://arxiv.org"><strong>Paper</strong></a>
 
 **We propose a novel framework that reformulates evidence retrieval as a dynamic tree expansion process.**
 
@@ -116,6 +121,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 </div>
 <div class='paper-box-text' markdown="1">
 [Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
+
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
 _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
