@@ -27,7 +27,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 # 🔥 News
 
-- *2025.06*: &nbsp;🎉🎉  My paper [**ZeroSearch**](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agents, has surpassed **1k stars** on GitHub!
+- *2025.06*: &nbsp;🎉🎉  My paper [**ZeroSearch**](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
 - *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
 - *2025.05*: &nbsp;🎉🎉  Two papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
 - *2025.04*: &nbsp;🎉🎉  Honored to receive the **Academic Star Award** (Top-5 students in School of Intelligence Science and Technology)!
@@ -95,8 +95,6 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
- <a href="https://arxiv.org"><strong>Paper</strong></a>
-
 **We propose a novel visual-textual embedding framework that effectively integrates textual and visual features.**
 
 </div>
@@ -115,8 +113,6 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 **Hao Sun**, H. Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
-
- <a href="https://arxiv.org"><strong>Paper</strong></a>
 
 **We propose a novel framework that reformulates evidence retrieval as a dynamic tree expansion process.**
 
@@ -500,7 +496,7 @@ _Under Review_,
 - *2021.09 - Present*, Ph.D. Candidate, Peking University.
 - *2017.09 - 2021.06*, Undergraduate, University of Electronic Science And Technology of China.
 
-# 📚 Academic Services
+# 📚 Services
 
 - **Program Committee / Reviewer**: NeurIPS 2024-25, ICLR 2024-25, ICML 2024-25, ACL 2022-25, EMNLP 2022-25
 - **Secondary Reviewer**: AAAI 2022, CIKM 2021-22, ICDM 2021-23, COLING 2022-23, DASFAA 2022-23
