@@ -300,22 +300,6 @@ _The International Conference on Database Systems for Advanced Applications_ (**
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2023</div><img src='../images/s2tul.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  
-
-L. Deng, **Hao Sun**, Y. Zhao, S. Liu, K. Zheng 
-
-_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2023
-
-<a href="https://dl.acm.org/doi/pdf/10.1145/3539597.3570410"><strong>Paper</strong></a>
-
-**Capture fine-grained intra-trajectory information by passing the trajectories into the sequential neural networks.**
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743.pdf) 
@@ -330,6 +314,78 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 
 **Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2025</div><img src='../images/cmc.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/pdf/2410.17599) 
+
+J. Wu, **Hao Sun**, H. Cai, L. Su, S. Wang, D. Yin, X. Li, M. Gao
+
+
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
+
+<a href="https://arxiv.org/pdf/2410.17599"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/wujwyi/CMC"><strong>Code</strong></a>
+
+**Improves multiple LLMs in one-time training with a portable tiny language model.**
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">ACL 2025</div>
+<img src='../images/icl.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+[Unraveling the Mechanics of Learning-Based Demonstration Selection for In-Context Learning](https://arxiv.org/pdf/2406.11890) 
+
+H Liu, W. Wang, **Hao Sun**, C. Tian, C. Kong, X. Dong, H. Li
+
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+ <a href="https://arxiv.org/pdf/2406.11890"><strong>Paper</strong></a>
+
+**Investigate the working mechanism of In-Context Learning.**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
+
+Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
+
+_The ACM Transactions on Information Systems_ (**TOIS**), 2021
+
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
+
+**Utilize sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">WSDM 2023</div><img src='../images/s2tul.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[S2TUL: A Semi-Supervised Framework for Trajectory-User Linking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570410)  
+
+L. Deng, **Hao Sun**, Y. Zhao, S. Liu, K. Zheng 
+
+_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2023
+
+<a href="https://dl.acm.org/doi/pdf/10.1145/3539597.3570410"><strong>Paper</strong></a>
+
+**Capture fine-grained intra-trajectory information by passing the trajectories into the sequential neural networks.**
 </div>
 </div>
 
@@ -403,31 +459,18 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
 
-Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
-
-_The ACM Transactions on Information Systems_ (**TOIS**), 2021
-
- <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
-
-**Utilize sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
-
-</div>
-</div>
 
 
 # 📒 Preprint
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Arxiv</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">Under Review</div><img src='../images/simcns.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [SimCNS: Simple Curriculum Negative Sampling for Multi-Source Dense Retrieval](https://arxiv.org/)
 
 **Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
 
-_Arxiv_, 2024
+_Under Review_,
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
