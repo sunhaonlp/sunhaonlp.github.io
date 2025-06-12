@@ -34,7 +34,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 - *2024.09*: &nbsp;🎉🎉  Three papers on RAG and Agent were accepted by [EMNLP 2024](https://2024.emnlp.org/)!
 - *2023.10*: &nbsp;🎉🎉  One paper on dense retrieval was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024/)!
 - *2023.10*: &nbsp;🎉🎉  One paper on multi-hop QA was accepted by [EMNLP 2023](https://2023.emnlp.org/)!
-- *2023.08*: &nbsp;🎉🎉  Honored to receive **Stars of Tomorrow award** during an internship at Microsoft!
+- *2023.08*: &nbsp;🎉🎉  Honored to receive **Stars of Tomorrow Award** during an internship at Microsoft!
 - *2023.05*: &nbsp;🎉🎉  One paper on multi-turn conversation was accepted by [ACL 2023](https://2023.aclweb.org/)!
 
 
@@ -307,6 +307,7 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/solidsea98/Neural-Corpus-Indexer-NCI"><strong>Code</strong></a>
+🏆 <span style="color: red;"><strong>Outstanding Paper Award</strong></span>
 
 **Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
 
@@ -481,9 +482,9 @@ _Under Review_,
 - *2025.06* Presidential Scholarship, Peking University.
 - *2025.04* Academic Star Award, Peking University.
 - *2024.06* First Prize of Challenge Cup Competition, Peking University.
-- *2023.09* Merit Student of Peking University.
-- *2023.09* Schlumberger Scholarship.
-- *2023.08* Stars of Tomorrow Award at Microsoft, Microsoft.
+- *2023.09* Merit Student, Peking University.
+- *2023.09* Schlumberger Scholarship, Peking University.
+- *2023.08* Stars of Tomorrow Award, Microsoft.
 - *2023.06* First Prize of Challenge Cup Competition, Peking University.
 - *2022.12* Outstanding Paper Award, NeurIPS 2022.
 - *2021.06* Outstanding Graduation Thesis for Undergraduates, UESTC.
