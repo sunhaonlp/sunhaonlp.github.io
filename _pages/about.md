@@ -295,6 +295,24 @@ _The International Conference on Database Systems for Advanced Applications_ (**
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2025</div><img src='../images/cmc.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/pdf/2410.17599) 
+
+J. Wu, **Hao Sun**, H. Cai, L. Su, S. Wang, D. Yin, X. Li, M. Gao
+
+
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
+
+<a href="https://arxiv.org/pdf/2410.17599"><strong>Paper</strong></a>
+\|
+<a href="https://github.com/wujwyi/CMC"><strong>Code</strong></a>
+
+**Improves multiple LLMs in one-time training with a portable tiny language model.**
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2022</div><img src='../images/nci.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -310,25 +328,6 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 🏆 <span style="color: red;"><strong>Outstanding Paper Award</strong></span>
 
 **Propose an end-to-end differentiable document retrieval model that can significantly outperform both inverted index and dense retrieval solutions.**
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">NeurIPS 2025</div><img src='../images/cmc.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-[Cross-model Control: Improving Multiple Large Language Models in One-time Training](https://arxiv.org/pdf/2410.17599) 
-
-J. Wu, **Hao Sun**, H. Cai, L. Su, S. Wang, D. Yin, X. Li, M. Gao
-
-
-_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
-
-<a href="https://arxiv.org/pdf/2410.17599"><strong>Paper</strong></a>
-\|
-<a href="https://github.com/wujwyi/CMC"><strong>Code</strong></a>
-
-**Improves multiple LLMs in one-time training with a portable tiny language model.**
 
 </div>
 </div>
@@ -356,6 +355,29 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 </div>
 
 
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">NAACL 2025</div>
+<img src='../images/parag.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+[PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization](https://arxiv.org/pdf/2412.14510) 
+
+J Wu, H Cai, L Yan, **Hao Sun**, X Li, S Wang, D Yin, M Gao
+
+_The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics_ (**NAACL**), 2025
+
+ <a href="https://arxiv.org/pdf/2412.14510"><strong>Paper</strong></a>
+
+**Optimize the RAG generator to align with RAG requirements comprehensively.**
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/skr.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3460198) 
@@ -367,6 +389,22 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
 
 **Utilize sequential, spatiotemporal, and social knowledge to recommend the next POI for a location-based social network user.**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">TOIS 2021</div><img src='../images/dg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Robust Domain Misinformation Detection via Multi-modal Feature Alignment](https://arxiv.org/pdf/2311.14315) 
+
+H Liu, W Wang, **Hao Sun**, A Rocha, H Li
+
+_IEEE Transactions on Information Forensics and Security _ (**TIFS**), 2023
+
+ <a href="https://arxiv.org/pdf/2311.14315"><strong>Paper</strong></a> 
+
+**Reduces the domain shift by aligning the joint distribution of textual and visual modalities through an inter-domain alignment module.**
 
 </div>
 </div>
