@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Sun (孙浩)"
+title                    : "Hao Sun 孙浩 - PhD Candidate @ Peking University"
 description              : "Ph.D. Candidate at Peking University, focusing on Agent and RAG."
 repository               : "sunhaopku/sunhaopku.github.io"
 google_scholar_stats_use_cdn : true
