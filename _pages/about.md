@@ -467,7 +467,7 @@ _The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
 
 **Hao Sun**, X. Liu, Y. Gong, A. Dong, G. Shi, Y. Zhang, L. Yang, N. Duan
 
-_Under Review_,
+_Under Review_
 
  <a href="https://arxiv.org"><strong>Paper</strong></a>
 
@@ -495,7 +495,7 @@ _Under Review_,
 # 📖 Educations
 
 - *2021.09 - Present*, Ph.D. Candidate, Peking University.
-- *2017.09 - 2021.06*, Undergraduate, University of Electronic Science And Technology of China.
+- *2017.09 - 2021.06*, Undergraduate, University of Electronic Science and Technology of China.
 
 # 📚 Services
 
