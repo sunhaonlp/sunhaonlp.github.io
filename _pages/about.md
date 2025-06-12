@@ -51,7 +51,14 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 _Under Review_, 2025
 
- <a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a> |  <a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a> |  <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a> |  <a href="https://huggingface.co/collections/sunhaonlp/zerosearch-policy-google-v2-6827f4ee6b6265069d443d4e"><strong>Model</strong></a> 🏆 <p><span style="color: red;"><strong>1000+ stars</strong></span></p>
+ <a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a>
+ \|
+ <a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a>
+ \|
+ <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
+ \|
+ <a href="https://huggingface.co/collections/sunhaonlp/zerosearch-policy-google-v2-6827f4ee6b6265069d443d4e"><strong>Model</strong></a> 
+ 🏆 <span style="color: red;"><strong>1000+ stars</strong></span>
 
 **We propose a novel reinforcement learning framework that incentivizes the capability of LLMs to use a real search engine with simulated searches during training.**
 
@@ -65,18 +72,18 @@ _Under Review_, 2025
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
 <div class="badge">ACL</div>
-<img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+<img src='../images/unveil.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
-**Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
+[Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval](https://arxiv.org/pdf/2312.09075.pdf)
+**Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
-**Improving citation generation with a two-tier verifier and active retrieval mechanism.**
+**We propose a novel visual-textual embedding framework that effectively integrates textual and visual features for robust document representation.**
 
 </div>
 </div>
@@ -85,17 +92,16 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
 <div class="badge">ACL</div>
-<img src='../images/vtg.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+<img src='../images/ets.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Towards Verifiable Text Generation with Evolving Memory and Self-Reflection](https://arxiv.org/pdf/2312.09075.pdf) 
-**Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
+[Enhancing Retrieval-Augmented Generation via Evidence Tree Search](https://arxiv.org/pdf/2312.09075.pdf) 
+**Hao Sun**, H. Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
 
-
-**Improving citation generation with a two-tier verifier and active retrieval mechanism.**
+**We propose a novel framework that reformulates evidence retrieval as a dynamic tree expansion process.**
 
 </div>
 </div>
@@ -413,8 +419,9 @@ _Arxiv_, 2024
 
 # 🎖 Honors and Awards
 
+- *2025.06* Presidential Scholarship, Peking University.
+- *2025.04* Academic Star Award, Peking University.
 - *2024.06* First Prize of Challenge Cup Competition, Peking University.
-- *2024.03* Academic Star Nomination.
 - *2023.09* Merit Student of Peking University.
 - *2023.09* Schlumberger Scholarship.
 - *2023.08* Stars of Tomorrow Award at Microsoft, Microsoft.
@@ -432,7 +439,7 @@ _Arxiv_, 2024
 
 # 📚 Academic Services
 
-- **Program Committee / Reviewer**: ACL 2022-23, EMNLP 2022-23, WWW 2023, IJCAI 2023
+- **Program Committee / Reviewer**: NeurIPS 2024-25, ICLR 2024-25, ICML 2024-25, ACL 2022-25, EMNLP 2022-25
 - **Secondary Reviewer**: AAAI 2022, CIKM 2021-22, ICDM 2021-23, COLING 2022-23, DASFAA 2022-23
 
 # 👩🏻‍🏫 Teaching
@@ -440,8 +447,8 @@ _Arxiv_, 2024
 - *Teaching Assistant,* Computer Networks and Web Technologies, Peking University, Fall 2023
 
 # 💻 Internships
-
-- [Baidu Research](http://research.baidu.com/), focusing on large language models.
+- [Tongyi Lab](https://tongyi.aliyun.com/), focusing on Agent and RAG.
+- [Baidu Research](http://research.baidu.com/), focusing on RAG and LLM.
 - [Microsoft Research Asia (MSRA)](https://www.msra.cn/), focusing on dense retrieval.
 - [DAMO Academy](https://damo.alibaba.com/), focusing on multi-turn conversation.
 - [HUAWEI Research](https://www.huawei.com/en/), focusing on spatial-temporal data analysis.
