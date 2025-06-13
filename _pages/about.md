@@ -27,7 +27,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 # 🔥 News
 
-- *2025.06*: &nbsp;🎉🎉  My paper [**ZeroSearch**](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
+- *2025.06*: &nbsp;🎉🎉  My paper [ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
 - *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
 - *2025.05*: &nbsp;🎉🎉  Three papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
 - *2025.04*: &nbsp;🎉🎉  Honored to receive the **Academic Star Award** (Top-5 students in School of Intelligence Science and Technology)!
@@ -216,7 +216,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a>
 \|
-<a href="https://github.com/microsoft/SimXNS/tree/main/LEAD"><strong>Code</strong></a>
+<a href="https://github.com/microsoft/SimXNS/tree/main/ALLIES"><strong>Code</strong></a>
 
 **Improving the knowledge scope and robustness of LLMs with Beam Search.**
 
