@@ -48,7 +48,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2312.09075.pdf) 
+[ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/pdf/2505.04588) 
 
 **Hao Sun**, Z. Qiao, J. Guo, X. Fan, Y. Hou, Y. Jiang, P. Xie, F. Huang, J. Zhou
 
