@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
+I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [ByteDance Seed](https://seed.bytedance.com/en/), [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
 
 My research interests include **Agent**, **RAG** and **LLM**. If you are also interested, please feel free to drop me an email.
 
@@ -546,6 +546,7 @@ _Under Review_
 - *Teaching Assistant,* Computer Networks and Web Technologies, Peking University, Fall 2023
 
 # 💻 Internships
+- [ByteDance Seed](https://seed.bytedance.com/en/), focusing on DeepResearch.
 - [Tongyi Lab](https://tongyi.aliyun.com/), focusing on Agent and RAG.
 - [Baidu Research](http://research.baidu.com/), focusing on RAG and LLM.
 - [Microsoft Research Asia (MSRA)](https://www.msra.cn/), focusing on dense retrieval.
