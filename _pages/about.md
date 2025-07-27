@@ -90,11 +90,13 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval](https://arxiv.org)
+[Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval](https://aclanthology.org/2025.acl-long.1166.pdf)
 
 **Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+ <a href="https://aclanthology.org/2025.acl-long.1166.pdf"><strong>Paper</strong></a>
 
 **We propose a novel visual-textual embedding framework that effectively integrates textual and visual features.**
 
@@ -109,11 +111,13 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[Enhancing Retrieval-Augmented Generation via Evidence Tree Search](https://arxiv.org) 
+[Enhancing Retrieval-Augmented Generation via Evidence Tree Search](https://aclanthology.org/2025.acl-long.1175.pdf) 
 
 **Hao Sun**, H. Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
 _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+
+ <a href="https://aclanthology.org/2025.acl-long.1175.pdf"><strong>Paper</strong></a>
 
 **We propose a novel framework that reformulates evidence retrieval as a dynamic tree expansion process.**
 
