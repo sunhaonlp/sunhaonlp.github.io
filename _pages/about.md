@@ -26,7 +26,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 
 # 🔥 News
-
+- *2025.08*: &nbsp;🎉🎉  One paper on Search Agent wasw accepted by [EMNLP 2025](https://2025.emnlp.org/)!
 - *2025.06*: &nbsp;🎉🎉  My paper [ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
 - *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
 - *2025.05*: &nbsp;🎉🎉  Three papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
@@ -79,6 +79,29 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image' style="display: inline-block; width: 100%;">
+<div>
+<div class="badge">EMNLP 2025</div>
+<img src='../images/hrm.png' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+[HRM: Enhancing Agentic Retrieval Augmented Generation With Hierarchical Reward Modeling](https://arxiv.org/pdf/2505.04588) 
+
+**Hao Sun**, Z. Qiao, B. Wang, G. Chen, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
+
+ <a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a>
+ \|
+ <a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a>
+ \|
+ <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
+
+**A novel Search Agent framework that decouples searching and planning using dual value models.**
+
+</div>
+</div>
 
 
 # 📝 Publications
