@@ -88,7 +88,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[DecoupleSearch: Decouple Planning and Searching via Hierarchical Reward Modeling](https://arxiv.org/pdf/2505.04588) 
+[DecoupleSearch: Decouple Planning and Search via Hierarchical Reward Modeling](https://arxiv.org/pdf/2505.04588) 
 
 **Hao Sun**, Z. Qiao, B. Wang, G. Chen, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
 
