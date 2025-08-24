@@ -26,7 +26,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉  One paper on Search Agent wasw accepted by [EMNLP 2025](https://2025.emnlp.org/)!
+- *2025.08*: &nbsp;🎉🎉  One paper on search agent was accepted by [EMNLP 2025](https://2025.emnlp.org/)!
 - *2025.06*: &nbsp;🎉🎉  My paper [ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
 - *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
 - *2025.05*: &nbsp;🎉🎉  Three papers on multimodal retrieval and RAG were accepted by [ACL 2025](https://2025.aclweb.org/)!
@@ -88,7 +88,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-[HRM: Enhancing Agentic Retrieval Augmented Generation With Hierarchical Reward Modeling](https://arxiv.org/pdf/2505.04588) 
+[DecoupleSearch: Decouple Planning and Searching via Hierarchical Reward Modeling](https://arxiv.org/pdf/2505.04588) 
 
 **Hao Sun**, Z. Qiao, B. Wang, G. Chen, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
 
