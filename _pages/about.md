@@ -102,7 +102,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
  \|
  <a href="https://huggingface.co/collections/sunhaonlp/decouplesearch-6860d78abbe29b43f6c347d4"><strong>Model</strong></a> 
 
-**A novel Search Agent framework that decouples searching and planning using dual value models.**
+**A novel search agent framework that decouples planning and search using MCTS and Hierarchical Reward Models.**
 
 </div>
 </div>
@@ -121,7 +121,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 **Hao Sun**, Y. Hou, J. Guo, B. Wang, C. Yang, J. Ni, Y. Zhang
 
-_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**)
 
  <a href="https://aclanthology.org/2025.acl-long.1166.pdf"><strong>Paper</strong></a>
 
@@ -142,7 +142,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 
 **Hao Sun**, H. Cai, Y. Li, X. Fan, X. Wei, S. Wang, Y. Zhang, D. Yin
 
-_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**)
 
  <a href="https://aclanthology.org/2025.acl-long.1175.pdf"><strong>Paper</strong></a>
 
@@ -164,7 +164,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 
 **Hao Sun**, H. Cai, B. Wang, Y. Hou, X. Wei, S. Wang, Y. Zhang, D. Yin 
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
  <a href="https://arxiv.org/pdf/2312.09075.pdf"><strong>Paper</strong></a>
 
@@ -187,11 +187,11 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 **Hao Sun**, Y. Jiang, B. Wang, Y. Hou, Y. Zhang, P. Xie, F. Huang 
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 <a href="https://arxiv.org/pdf/2407.05682"><strong>Paper</strong></a>
 
-**Enabling LLMs to learn from mistakes by proving question-level and task-level principles.**
+**Enabling LLMs to learn from mistakes by providing question-level and task-level principles.**
 
 
 </div>
@@ -207,7 +207,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 **Hao Sun**, J. Wu, H. Cai, X. Wei, Y. Feng, B. Wang, S. Wang, Y. Zhang, D. Yin 
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2024
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
  <a href="https://arxiv.org/pdf/2410.13181"><strong>Paper</strong></a>
 
@@ -224,7 +224,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 **Hao Sun**, X. Liu, Y. Gong, A. Dong, J. Lu, Y. Zhang, L. Yang, R. Majumder, N. Duan 
 
-_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2024, Oral
+_The ACM International Conference on Web Search and Data Mining_ (**WSDM**) Oral
 
 <a href="https://arxiv.org/pdf/2212.05225.pdf"><strong>Paper</strong></a>
 \|
@@ -237,13 +237,13 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP 2023</div><img src='../images/allies.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; width: 100%;"><div><div class="badge">EMNLP 2023 Findings</div><img src='../images/allies.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Allies: Prompting Large Language Model with Beam Search](https://aclanthology.org/2023.findings-emnlp.247.pdf)  
 
 **Hao Sun**, X. Liu, Y. Gong, Y. Zhang, N. Duan
 
-_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2023, Findings
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 <a href="https://aclanthology.org/2023.findings-emnlp.247.pdf"><strong>Paper</strong></a>
 \|
@@ -262,7 +262,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 **Hao Sun**, Y.g Li, L. Deng, B. Li, B. Hui, B. Li, Y. Lan, Y. Zhang, Y. Li
 
-_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2023
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**)
 
 <a href="https://arxiv.org/pdf/2306.06872.pdf"><strong>Paper</strong></a>
 
@@ -279,7 +279,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 
 **Hao Sun**, Y. Li, Y. Zhang
 
-_The SIAM International Conference on Data Mining_ (**SDM**), 2022
+_The SIAM International Conference on Data Mining_ (**SDM**)
 
 <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611977172.14"><strong>Paper</strong></a> 
 \|
@@ -298,13 +298,12 @@ _The SIAM International Conference on Data Mining_ (**SDM**), 2022
 
 **Hao Sun**, C. Y.g, L. Deng, F. Zhou, F. Huang, K. Zheng
 
-_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2021
-
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**)
 <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
 
-**Capturing multi-level periodicity and shifting periodicity of human mobility using attention mechanism.**
+**Capturing multi-level periodicity and shifting periodicity of human mobility using an attention mechanism.**
 
 </div>
 </div>
@@ -317,7 +316,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 **Hao Sun**, Z. Wu, Y. Cui, L. Deng, Y. Zhao, K. Zheng
 
-_The International Conference on Database Systems for Advanced Applications_ (**DASFAA**), 2021
+_The International Conference on Database Systems for Advanced Applications_ (**DASFAA**)
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10"><strong>Paper</strong></a>
 
@@ -334,7 +333,7 @@ _The International Conference on Database Systems for Advanced Applications_ (**
 J. Wu, **Hao Sun**, H. Cai, L. Su, S. Wang, D. Yin, X. Li, M. Gao
 
 
-_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**)
 
 <a href="https://arxiv.org/pdf/2410.17599"><strong>Paper</strong></a>
 \|
@@ -352,7 +351,7 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 
 Y. Wang, Y. Hou, H. Wang, Z. Miao, S. Wu, **Hao Sun**, Q. Chen, Y. Xia, C. Chi, G. Zhao, Z. Liu, X. Xie, H. Allen Sun, W. Deng, Q. Zhang, M. Yang
 
-_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2022
+_The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**)
 
 <a href="https://arxiv.org/pdf/2206.02743.pdf"><strong>Paper</strong></a>
 \|
@@ -377,7 +376,7 @@ _The Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 
 
 H Liu, W. Wang, **Hao Sun**, C. Tian, C. Kong, X. Dong, H. Li
 
-_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**), 2025
+_The Annual Meeting of the Association for Computational Linguistics_ (**ACL**)
 
  <a href="https://arxiv.org/pdf/2406.11890"><strong>Paper</strong></a>
 
@@ -399,8 +398,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**),
 
 J Wu, H Cai, L Yan, **Hao Sun**, X Li, S Wang, D Yin, M Gao
 
-_The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics_ (**NAACL**), 2025
-
+_The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics_ (**NAACL**)
  <a href="https://arxiv.org/pdf/2412.14510"><strong>Paper</strong></a>
 
 **Optimize the RAG generator to align with RAG requirements comprehensively.**
@@ -416,7 +414,7 @@ _The 2025 Annual Conference of the Nations of the Americas Chapter of the Associ
 
 Y. Cui, **Hao Sun**, Y. Zhao, H. Yin, K. Zheng
 
-_The ACM Transactions on Information Systems_ (**TOIS**), 2021
+_The ACM Transactions on Information Systems_ (**TOIS**)
 
  <a href="https://dl.acm.org/doi/pdf/10.1145/3460198"><strong>Paper</strong></a> 
 
@@ -432,7 +430,7 @@ _The ACM Transactions on Information Systems_ (**TOIS**), 2021
 
 H Liu, W Wang, **Hao Sun**, A Rocha, H Li
 
-_IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2023
+_IEEE Transactions on Information Forensics and Security_ (**TIFS**)
 
  <a href="https://arxiv.org/pdf/2311.14315"><strong>Paper</strong></a> 
 
@@ -448,7 +446,7 @@ _IEEE Transactions on Information Forensics and Security_ (**TIFS**), 2023
 
 L. Deng, **Hao Sun**, Y. Zhao, S. Liu, K. Zheng 
 
-_The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 2023
+_The ACM International Conference on Web Search and Data Mining_ (**WSDM**)
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3539597.3570410"><strong>Paper</strong></a>
 
@@ -464,7 +462,7 @@ _The ACM International Conference on Web Search and Data Mining_ (**WSDM**), 202
 
 L. Deng, Y. Zhao, Z. Fu, **Hao Sun**, S. Liu, K. Zheng 
 
-_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**)
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3511808.3557308"><strong>Paper</strong></a> 
 
@@ -481,7 +479,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 L. Deng, **Hao Sun**, R. Sun, Y. Zhao, H. Su
 
-_The ACM Transactions on Intelligent Systems and Technology_ (**TIST**), 2022
+_The ACM Transactions on Intelligent Systems and Technology_ (**TIST**)
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3456723"><strong>Paper</strong></a> 
 
@@ -499,7 +497,7 @@ _The ACM Transactions on Intelligent Systems and Technology_ (**TIST**), 2022
 
 L. Deng, Y. Zhao, **Hao Sun**, C. Yang, J. Xie, K. Zheng
 
-_The ACM International Conference on Information and Knowledge Management_ (**CIKM**), 2022
+_The ACM International Conference on Information and Knowledge Management_ (**CIKM**)
 
  <a href="https://link.springer.com/chapter/10.1007/978-3-031-30637-2_29"><strong>Paper</strong></a> 
 
@@ -515,7 +513,7 @@ _The ACM International Conference on Information and Knowledge Management_ (**CI
 
 Z. Cheng, J. Guo, **Hao Sun**, Y. Zhang
 
-_The IEEE International Conference on Multimedia & Expo_ (**ICME**), 2024
+_The IEEE International Conference on Multimedia & Expo_ (**ICME**)
 
  <a href="https://arxiv.org/pdf/2403.08229.pdf"><strong>Paper</strong></a> 
 
