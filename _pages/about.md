@@ -299,6 +299,7 @@ _The SIAM International Conference on Data Mining_ (**SDM**)
 **Hao Sun**, C. Y.g, L. Deng, F. Zhou, F. Huang, K. Zheng
 
 _The ACM International Conference on Information and Knowledge Management_ (**CIKM**)
+
 <a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482284"><strong>Paper</strong></a>
 \|
 <a href="https://github.com/sunhaonlp/PeriodicMove"><strong>Code</strong></a>
@@ -399,6 +400,7 @@ _The Annual Meeting of the Association for Computational Linguistics_ (**ACL**)
 J Wu, H Cai, L Yan, **Hao Sun**, X Li, S Wang, D Yin, M Gao
 
 _The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics_ (**NAACL**)
+
  <a href="https://arxiv.org/pdf/2412.14510"><strong>Paper</strong></a>
 
 **Optimize the RAG generator to align with RAG requirements comprehensively.**
