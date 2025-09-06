@@ -92,6 +92,8 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 **Hao Sun**, Z. Qiao, B. Wang, G. Chen, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
 
+_The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**), 2025
+
  <a href="https://sunhaonlp.github.io/DecoupleSearch/"><strong>Homepage</strong></a>
  \|
  <a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a>
