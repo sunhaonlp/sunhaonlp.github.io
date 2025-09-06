@@ -92,11 +92,13 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 **Hao Sun**, Z. Qiao, B. Wang, G. Chen, Y. Hou, Y. Jiang, P. Xie, F. Huang, Y. Zhang
 
- <a href="https://alibaba-nlp.github.io/ZeroSearch/"><strong>Homepage</strong></a>
+ <a href="https://sunhaonlp.github.io/DecoupleSearch/"><strong>Homepage</strong></a>
  \|
  <a href="https://arxiv.org/pdf/2505.04588"><strong>Paper</strong></a>
  \|
- <a href="https://github.com/Alibaba-NLP/ZeroSearch"><strong>Code</strong></a>
+ <a href="https://github.com/sunhaonlp/DecoupleSearch"><strong>Code</strong></a>
+ \|
+ <a href="https://huggingface.co/collections/sunhaonlp/decouplesearch-6860d78abbe29b43f6c347d4"><strong>Model</strong></a> 
 
 **A novel Search Agent framework that decouples searching and planning using dual value models.**
 
