@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [ByteDance Seed](https://seed.bytedance.com/en/), [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
+I am a 5th-year PhD candidate in [School of Intelligence Science and Technology](https://www.cis.pku.edu.cn/index.htm) at [Peking University](https://www.pku.edu.cn/), working with Prof. [Y. Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm). I obtained my bachelor's degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/) in June 2021, under the supervision of Prof. [K. Zheng](http://zheng-Kai.com/). I’ve also spent time at [ByteDance Seed](https://seed.bytedance.com/en/), [Tongyi Lab](https://tongyi.aliyun.com/), [Baidu Reserch](http://research.baidu.com/), [MSRA](https://www.msra.cn/), [DAMO Academy]([https://www.alibaba.com/](https://damo.alibaba.com/)) and [Huawei](https://www.huawei.com/).
 
 My research interests include **Agent**, **RAG** and **LLM**. If you are also interested, please feel free to drop me an email.
 
@@ -26,6 +26,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉  Honored to receive the **Academic Innovation Award** from Peking University!
 - *2025.08*: &nbsp;🎉🎉  One paper on search agent was accepted by [EMNLP 2025](https://2025.emnlp.org/)!
 - *2025.06*: &nbsp;🎉🎉  My paper [ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
 - *2025.06*: &nbsp;🎉🎉  Honored to receive the **Presidential Scholarship** (the highest honor for PhD students at PKU)!
@@ -549,6 +550,7 @@ _Under Review_
 
 # 🎖 Honors and Awards
 
+- *2025.09* Academic Innovation Award, Peking University.
 - *2025.06* Presidential Scholarship, Peking University.
 - *2025.04* Academic Star Award, Peking University.
 - *2024.06* First Prize of Challenge Cup Competition, Peking University.
