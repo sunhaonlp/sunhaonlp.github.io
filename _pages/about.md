@@ -26,6 +26,7 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉  Honored to receive the **Top Reviewer Award** from [NeurIPS 2025](https://neurips.cc/)!
 - *2025.09*: &nbsp;🎉🎉  Honored to receive the **Academic Innovation Award** from Peking University!
 - *2025.08*: &nbsp;🎉🎉  One paper on search agent was accepted by [EMNLP 2025](https://2025.emnlp.org/)!
 - *2025.06*: &nbsp;🎉🎉  My paper [ZeroSearch](https://github.com/Alibaba-NLP/ZeroSearch), which explores reinforcement learning for search agent, has surpassed **1,000 stars**!
