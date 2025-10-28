@@ -98,7 +98,7 @@ _The Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
  <a href="https://sunhaonlp.github.io/DecoupleSearch/"><strong>Homepage</strong></a>
  \|
- <a href="https://github.com/sunhaonlp/DecoupleSearch/blob/main/paper/DecoupleSearch.pdf"><strong>Paper</strong></a>
+ <a href="https://arxiv.org/pdf/2510.21712"><strong>Paper</strong></a>
  \|
  <a href="https://github.com/sunhaonlp/DecoupleSearch"><strong>Code</strong></a>
  \|
