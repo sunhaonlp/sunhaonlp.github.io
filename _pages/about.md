@@ -45,7 +45,6 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">Under Review</div>
 <img src='../images/zerosearch.jpg' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
@@ -85,7 +84,6 @@ My research interests include **Agent**, **RAG** and **LLM**. If you are also in
 <div class='paper-box'>
 <div class='paper-box-image' style="display: inline-block; width: 100%;">
 <div>
-<div class="badge">EMNLP 2025</div>
 <img src='../images/hrm.png' alt="sym" style="width: 100%; height: 160px; object-fit: contain;">
 </div>
 </div>
